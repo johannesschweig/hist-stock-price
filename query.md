@@ -17,6 +17,12 @@ https://www.onvista.de/etf/times-sales/COMSTAGE-MSCI-WORLD-UCITS-ETF-I-D-USD-DIS
 https://www.onvista.de/etf/times-sales/COMSTAGE-MSCI-EMERGING-MARKETS-UCITS-ETF-I-USD-DIS-ETF-LU0635178014
 csv download
 (https://www.onvista.de/fonds/kurshistorie.html?ID_NOTATION=26562449&RANGE=36M)
+https://www.onvista.de/fonds/times-sales/UBS-D-EQUITY-FUND-GLOBAL-OPPORTUNITY-EUR-ACC-Fonds-DE0008488214
+
+finanzen.net
+https://www.finanzen.net/anleihen/historisch/522994-bertelsmann-se-kgaa-anleihe
 
 delete all old years
 :g/^2009\|^2010\|^2011\|^2012\|^2013\|^2014\|^2015\|^2016\|^2017/d
+
+
