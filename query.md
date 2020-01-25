@@ -14,6 +14,7 @@ https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=X01
 onvista
 https://www.onvista.de/etf/times-sales/COMSTAGE-MSCI-WORLD-UCITS-ETF-I-D-USD-DIS-ETF-LU0392494562
 csv download
+(https://www.onvista.de/fonds/kurshistorie.html?ID_NOTATION=26562449&RANGE=36M)
 
 delete all old years
 :g/^2009\|^2010\|^2011\|^2012\|^2013\|^2014\|^2015\|^2016\|^2017/d
