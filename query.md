@@ -7,12 +7,14 @@ https://de.finance.yahoo.com/quote/X010.DE/history?period1=1514764800&period2=15
 
 alphavantage
 https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=X010.DE&outputsize=full&datatype=csv&apikey=<apikey>
+https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=E127.DE&outputsize=full&datatype=csv&apikey=<apikey>
 
 alphavantage (adjusted)
 https://www.alphavantage.co/query?function=TIME_SERIES_DAILY_ADJUSTED&symbol=X010.DE&outputsize=full&datatype=csv&apikey=<apikey>
 
 onvista
 https://www.onvista.de/etf/times-sales/COMSTAGE-MSCI-WORLD-UCITS-ETF-I-D-USD-DIS-ETF-LU0392494562
+https://www.onvista.de/etf/times-sales/COMSTAGE-MSCI-EMERGING-MARKETS-UCITS-ETF-I-USD-DIS-ETF-LU0635178014
 csv download
 (https://www.onvista.de/fonds/kurshistorie.html?ID_NOTATION=26562449&RANGE=36M)
 
