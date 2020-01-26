@@ -22,6 +22,9 @@ https://www.onvista.de/fonds/times-sales/UBS-D-EQUITY-FUND-GLOBAL-OPPORTUNITY-EU
 finanzen.net
 https://www.finanzen.net/anleihen/historisch/522994-bertelsmann-se-kgaa-anleihe
 
+msci world index
+https://www.onvista.de/onvista/times+sales/popup/historische-kurse/?notationId=10370091&dateStart=01.01.2019&interval=Y5&assetName=MSCI%20WORLD%20%20(GDTR%2C%20UHD)&exchange=au%C3%9Ferb%C3%B6rslich
+
 delete all old years
 :g/^2009\|^2010\|^2011\|^2012\|^2013\|^2014\|^2015\|^2016\|^2017/d
 
